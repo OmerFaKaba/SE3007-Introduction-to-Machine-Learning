@@ -114,19 +114,13 @@ This score enables direct comparison between professions.
 
 ---
 
-## ▶️ Execution Instructions
 
-### 1. Install dependencies
+
+## Install dependencies
 
 `pip install -r requirements.txt`
 
 
-2. Run models in order
-
-python regression.py
-python classification.py
-python recommender.py
-python resilience_index.py
 
 
 ## 📊 Model Results
