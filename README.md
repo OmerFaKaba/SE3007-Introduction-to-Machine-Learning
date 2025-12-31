@@ -160,31 +160,32 @@ All visualizations are generated exclusively from the test set and reflect the t
 | `job_model_resilience_index.csv`   | Final resilience scores    |
 
 
-🛠 Environment Specification
+## 🛠 Environment Specification
 
-All required libraries are listed in:
-
+All required libraries and dependencies for running the project are listed in:
 requirements.txt
 
-📄 Project Presentation
 
-The repository includes a final presentation PDF summarizing:
+This ensures that the project can be fully reproduced in a consistent environment.
 
-Problem motivation
+---
 
-Methodology
+## 📄 Project Presentation
 
-Experimental results
+The repository includes a **final presentation PDF** summarizing:
 
-All experiments presented in the PDF exactly match the implemented code.
+- Problem motivation  
+- Methodology  
+- Experimental results  
 
+All experiments and results presented in the PDF **exactly correspond to the code and outputs implemented in this repository**, ensuring full reproducibility and transparency.
 
-🧠 Why This Project Stands Out
+---
 
-End-to-end AI pipeline
+## 🧠 Why This Project Stands Out
 
-Combines regression, classification, NLP, and recommender systems
+- End-to-end AI pipeline covering the full analysis workflow  
+- Combines **regression, classification, NLP, and recommender systems**  
+- Produces **actionable insights**, not just raw predictions  
+- Fully reproducible, well-documented, and evaluation-driven
 
-Produces actionable insights, not just predictions
-
-Fully reproducible and well-documented
