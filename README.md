@@ -129,35 +129,32 @@ python recommender.py
 python resilience_index.py
 
 
-📊 Model Results
+## 📊 Model Results
 
-Regression Metrics
+### Regression Metrics
+The performance of the AI Impact prediction model is evaluated using:
 
-MAE
+- **MAE (Mean Absolute Error)**
+- **RMSE (Root Mean Squared Error)**
+- **R² Score (Coefficient of Determination)**
 
-RMSE
+### Classification Metrics
+The job risk classification model is evaluated using:
 
-R² Score
+- **Accuracy**
+- **Precision**
+- **Recall**
+- **F1-score**
 
-Classification Metrics
+### Visual Results
+The following visual analyses are generated from the test data and included in the repository:
 
-Accuracy
+- **Actual vs Predicted AI Impact**
+- **Job Resilience Score Distribution**
+- **Top-10 Most AI-Resilient Jobs**
 
-Precision
+All visualizations are generated exclusively from the test set and reflect the true performance of the models.
 
-Recall
-
-F1-score
-
-Visual Results
-
-Actual vs Predicted AI Impact
-
-Job Resilience Score distribution
-
-Top-10 most AI-resilient jobs
-
-All visualizations are generated from the test data and included in the repository.
 
 📁 Output Files
 
